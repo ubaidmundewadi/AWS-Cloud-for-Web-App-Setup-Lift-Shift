@@ -58,4 +58,9 @@ The architecture consists of the following components:
 
 This project provides a robust and scalable deployment strategy for a Java-based application using AWS services. By leveraging AWS, the application benefits from high availability, security, and automatic scaling.
 
+## Snaps
+![Screenshot 2024-08-19 201801](https://github.com/user-attachments/assets/cfe079a1-fa5c-4d22-8ee5-f9f3dbe3408a)
+
+![Screenshot 2024-08-19 201826](https://github.com/user-attachments/assets/407fe7e6-16b2-4d3e-97bc-2a700e2b8a47)
+
 ---
